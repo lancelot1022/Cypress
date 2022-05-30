@@ -1,0 +1,19 @@
+{
+  "name": "lanzcompalacypress",
+  "description": "TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "typescript": "^4.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://2026453@dev.azure.com/2026453/LanzCompalaCypress/_git/LanzCompalaCypress"
+  },
+  "author": "",
+  "license": "ISC"
+}
