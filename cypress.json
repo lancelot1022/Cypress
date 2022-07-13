@@ -1,6 +1,0 @@
-{
-    "reporter": "junit",
-    "reporterOptions": {
-        "mochaFile": "./reports/junit-[hash].xml"
-    }
-}
